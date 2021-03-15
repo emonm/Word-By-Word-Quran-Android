@@ -1,16 +1,17 @@
 # Word By Word Quran Android
 ![Quran Project](https://github.com/SadaqaWorks/QuranProjects/blob/master/quran.gif)
 
-<br />You may try it from here https://play.google.com/store/apps/details?id=com.loopslab.wordbywordquran
+<br />You can download and try it from here https://play.google.com/store/apps/details?id=com.loopslab.wordbywordquran
 ## Features
 1. In three languages English, Bangla, Indonesia (more translation can be added  from (http://tanzil.net/trans/) or (https://github.com/SadaqaWorks/IslamicDatabase))
-2. Word By Word meaning in those three language 
-3. Gramitical analysis for each word
+2. Word By Word meaning in those three language.
+3. Gramitical analysis for each word.
 
 ## Features can be added 
 1. More translation can be added  from (http://tanzil.net/trans/) or (https://github.com/SadaqaWorks/IslamicDatabase).
 2. Audio play like (https://github.com/quran/quran_android).
-3. More polished UI
+3. More polished UI.
+4. Any Bug fix or performence improvement.
 
 ## Contributing
 
@@ -20,7 +21,7 @@
 4. Commit your changes (`git commit -am 'Add some feature'`)
 5. Push to the branch (`git push origin my-new-feature`)
 6. Create a new Pull Request
-7. Please don't upload on Playstore it with ad. 
+7. Please don't upload the app on Playstore with ad. 
 
 **Bug reports, feature requests, patches, well-wishes, and rap demo tapes are
 
